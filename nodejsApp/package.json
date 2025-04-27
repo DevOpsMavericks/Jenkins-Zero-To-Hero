@@ -1,0 +1,12 @@
+{
+  "name": "devops-mavericks-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js REST API for DevOps Practice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
